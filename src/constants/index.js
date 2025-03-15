@@ -9,7 +9,7 @@ On the backend, I work with Node.js and Spring Boot, ensuring efficient applicat
 
 With a growing interest in DevOps, I use Docker to streamline deployments and improve scalability.`;
 
-export const ABOUT_TEXT = `Hey there! I’m a third-year Computer Science student with a passion for front-end development and creative tech. I love exploring the latest frameworks, crafting sleek user interfaces, and bringing ideas to life with clean, interactive designs. As part of SARK (Tech Club) in my college, I’ve organized multiple tech events, connecting enthusiasts and innovators.
+export const ABOUT_TEXT = `Hey there! I’m a third-year Computer Science student with a passion for development and creative tech. I love exploring the latest frameworks, crafting sleek user interfaces, and bringing ideas to life with clean, interactive designs. As part of SARK (Tech Club) in my college, I’ve organized multiple tech events, connecting enthusiasts and innovators.
 
 Beyond tech, I’m a visual storyteller. Being part of Adlib Arts (Photography & Videography Club), I dive into video editing, transforming raw clips into cinematic pieces.
 
