@@ -3,9 +3,17 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `Currently in my third year of Computer Science, I have a strong foundation in full-stack development. I specialize in React and Next.js for dynamic user interfaces, using Tailwind CSS and Framer Motion for modern designs. On the backend, I work with Node.js, MySQL, PostgreSQL, and MongoDB to build scalable applications. I also have expertise in Java development, including Spring and Spring Boot, for enterprise-level solutions. With a keen interest in DevOps, I utilize Docker for deployment. My proficiency in Java for Data Structures and Algorithms enhances my problem-solving skills.`;
+export const HERO_CONTENT = `I have a strong passion for building modern, interactive, and high-performance web applications. I specialize in React and Next.js, leveraging Tailwind CSS and Framer Motion to create sleek, responsive designs with smooth animations.
 
-export const ABOUT_TEXT = `I am a 3rd-year Computer Science student with experience in web development and Java programming. I specialize in front-end technologies like React, Next.js, Tailwind CSS, and Framer Motion, along with back-end development using Node.js, MySQL, MongoDB, and PostgreSQL. I also have expertise in Java development, including Spring and Spring Boot, and experience with DevOps tools like Docker. Additionally, I have a strong grasp of Data Structures and Algorithms using Java. Beyond coding, I have a passion for video editing and enjoy exploring new technologies to enhance my skill set.`;
+On the backend, I work with Node.js and Spring Boot, ensuring efficient application logic and performance. My strong foundation in Java development allows me to solve complex problems using Data Structures and Algorithms, enhancing optimization and efficiency.
+
+With a growing interest in DevOps, I use Docker to streamline deployments and improve scalability.`;
+
+export const ABOUT_TEXT = `Hey there! I’m a third-year Computer Science student with a passion for front-end development and creative tech. I love exploring the latest frameworks, crafting sleek user interfaces, and bringing ideas to life with clean, interactive designs. As part of SARK (Tech Club) in my college, I’ve organized multiple tech events, connecting enthusiasts and innovators.
+
+Beyond tech, I’m a visual storyteller. Being part of Adlib Arts (Photography & Videography Club), I dive into video editing, transforming raw clips into cinematic pieces.
+
+When I’m not designing, editing, or geeking out over new tech, you’ll find me chasing sunsets, planning my next trip, or binging horror and thriller movies. And my music? A perfect mix of Taylor Swift’s poetic brilliance and The Weeknd’s dark, moody vibes.`;
 
 export const EXPERIENCES = [
   {
