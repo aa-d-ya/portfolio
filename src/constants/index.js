@@ -1,7 +1,7 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+import project1 from "../assets/projects/project-1.png";
+import project2 from "../assets/projects/project-2.png";
+import project3 from "../assets/projects/project-3.png";
+import project4 from "../assets/projects/project-4.png";
 
 export const HERO_CONTENT = `I have a strong passion for building modern, interactive, and high-performance web applications. I specialize in React and Next.js, leveraging Tailwind CSS and Framer Motion to create sleek, responsive designs with smooth animations.
 
@@ -48,32 +48,32 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Blockchain based- CrowdSproud",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "A blockchain-based charity platform. The admin verifies campaign owners, enhancing credibility and minimizing fraud. ",
+    technologies: ["React", "Node.js", " Tailwind CSS ","Solidity", "IPFS"],
   },
   {
-    title: "Task Management App",
+    title: "AI-Powered Interview",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "An AI-powered interviewing platform that helps to conduct unbiased interviews. It performs real time video interviews. It converts speech-to-text and on the basis of it, it analyses the interviewer as well as the interviewee and check for any bias as well.",
+    technologies: ["Gemini-API", "React", "MongoDB", " Express.js"],
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["React", "TailwindCSS", "Framer Motion"],
   },
   {
-    title: "Blogging Platform",
+    title: "AI-LinkedIn Post Generator Tool",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "A powerful AI-driven tool built using LangChain, Streamlit, and Groq Cloud to generate engaging LinkedIn posts effortlessly. It leverages LangChain for structuring LLM interactions, Streamlit for an intuitive UI, and Groq Cloud for ultra-fast AI responses.",
+    technologies: ["LLM", "Langchain", "Streamlit", "Groq cloud", "Python"],
   },
 ];
 
